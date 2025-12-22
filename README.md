@@ -52,5 +52,5 @@ MQ2 sensor, 555 timer IC, BC547 transistor, relay module, buzzer/LED, 7805 regul
 •	Description: Can be a DC power source like a battery or regulated adapter based on component requirements.
 
 
- ALCOHOL DeTECTOR SYSTEM CIRCIUT DIAGRAM:
+ ALCOHOL DETECTOR SYSTEM CIRCIUT DIAGRAM:
  ![image alt](https://github.com/DivyamMutha/Autonomous-Alcohol-using-mq2-555timer/blob/e98ed1766b177ff00ed62b4c2ca9f96775d2d430/Alcohol%20Detector%20Circuit%20Diagram.png)
